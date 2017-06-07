@@ -27,7 +27,7 @@ Media breakpoints are at:
 
 and they are completly arbitrary :).
 
-[article]: https://uxdesign.cc/design-better-cards-c0d12ab58c4
+[article]: https://uxdesign.cc/design-better-cards-c0d12ab581c4
 
 ## HTML Structure
 
